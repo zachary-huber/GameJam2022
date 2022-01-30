@@ -1,0 +1,154 @@
+{
+	"events": [
+		{
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1643533422.cfg"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One day, Mr. purple was walking around enjoying the boundless beauty of nature."
+		},
+		{
+			"action": "join",
+			"character": "character-1643529768.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "Default",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			}
+		},
+		{
+			"character": "character-1643529768.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Wow..."
+		},
+		{
+			"character": "character-1643529768.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "What a beautiful day."
+		},
+		{
+			"character": "character-1643529768.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I have reached it. "
+		},
+		{
+			"character": "character-1643529768.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Inner peace."
+		},
+		{
+			"character": "character-1643529768.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oneness with it all."
+		},
+		{
+			"character": "character-1643529768.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not one thing can change that right now."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*Crunch*"
+		},
+		{
+			"character": "character-1643529768.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(What?)"
+		},
+		{
+			"action": "leaveall",
+			"character": "[All]",
+			"event_id": "dialogic_003"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Buddy... nice job stepping on me."
+		},
+		{
+			"action": "join",
+			"character": "character-1643530042.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "Default",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			}
+		},
+		{
+			"character": "character-1643530042.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "lmao RIP."
+		},
+		{
+			"action": "leaveall",
+			"character": "[All]",
+			"event_id": "dialogic_003"
+		},
+		{
+			"action": "join",
+			"character": "character-1643529768.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "PAIN",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			}
+		},
+		{
+			"background": "res://assets/sprites/b-whiteg.png",
+			"event_id": "dialogic_021",
+			"fade_duration": 4
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://assets/SFX/DIED.WAV",
+			"volume": -30
+		},
+		{
+			"character": "character-1643529768.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "AGGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1643529996.json",
+		"name": "Conversation1"
+	}
+}

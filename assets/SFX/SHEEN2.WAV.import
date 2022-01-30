@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SHEEN2.WAV-5aa867846b232c65d8b9ece6788d2927.sample"
+
+[deps]
+
+source_file="res://assets/SFX/SHEEN2.WAV"
+dest_files=[ "res://.import/SHEEN2.WAV-5aa867846b232c65d8b9ece6788d2927.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

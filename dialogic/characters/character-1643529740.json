@@ -1,0 +1,24 @@
+{
+	"color": "#ffe42b52",
+	"description": "red person\n",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1643529740.json",
+	"mirror_portraits": true,
+	"name": "RED",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 915,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/sprites/red-portrait.png"
+		},
+		{
+			"name": "red-portrait",
+			"path": "res://assets/sprites/red-portrait.png"
+		}
+	],
+	"scale": 200
+}

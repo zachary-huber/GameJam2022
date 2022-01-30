@@ -1,0 +1,24 @@
+{
+	"color": "#ff496cf8",
+	"description": "I'm blue bada bee da ba di",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1643529748.json",
+	"mirror_portraits": false,
+	"name": "BLUE",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -100,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/sprites/blue-portrait.png"
+		},
+		{
+			"name": "blue-portrait",
+			"path": "res://assets/sprites/blue-portrait.png"
+		}
+	],
+	"scale": 150
+}

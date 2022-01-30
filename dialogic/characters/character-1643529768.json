@@ -1,0 +1,24 @@
+{
+	"color": "#ff7717ce",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1643529768.json",
+	"mirror_portraits": false,
+	"name": "PURPLE",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -50,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/sprites/purple-portrait.png"
+		},
+		{
+			"name": "PAIN",
+			"path": "res://assets/sprites/purple-portrait2.png"
+		}
+	],
+	"scale": 200
+}
